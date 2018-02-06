@@ -23,7 +23,7 @@ local.properties
 .settings/
 .loadpath
 .recommenders
-
+audit.log
 # Eclipse Core
 .project
 
